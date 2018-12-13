@@ -1,2 +1,3 @@
-# AppSec-guidelines-ru
+# AppSec guidelines
+
 Гайды на русском
